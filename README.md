@@ -9,7 +9,7 @@ A sophisticated e-commerce backend system that uses LangGraph to create a networ
 - **Inventory Agent**: Updates product inventory after orders
 - **Billing Agent**: Generates PDF bills for customer orders
 
-## 📋 System Overview
+## 📋 System Overview :
 
 This project implements a multi-agent architecture using LangGraph to create a seamless order processing system. Each agent has specific responsibilities:
 
