@@ -18,13 +18,13 @@ This project implements a multi-agent architecture using LangGraph to create a s
 - **Inventory Agent**: Manages product inventory levels by updating stock after orders are placed
 - **Billing Agent**: Generates professional PDF bills for completed orders
 
-## 🔧 Requirements
+## 🔧 Requirements : 
 
 - Python 3.9+
 - PostgreSQL database
 - OpenAI API key
 
-## 📦 Dependencies
+## 📦 Dependencies :
 
 ```
 langchain
@@ -34,7 +34,7 @@ psycopg2-binary
 reportlab
 ```
 
-## ⚙️ Configuration
+## ⚙️ Configuration :
 
 Before running the application, you need to set up your PostgreSQL database and configure the environment:
 
@@ -61,7 +61,7 @@ Before running the application, you need to set up your PostgreSQL database and 
    ```
    or use a `.env` file (add this file to `.gitignore`).
 
-## 🚀 Getting Started
+## 🚀 Getting Started :
 
 1. Clone this repository:
    ```bash
@@ -79,7 +79,7 @@ Before running the application, you need to set up your PostgreSQL database and 
    python main.py
    ```
 
-## 💬 Usage
+## 💬 Usage :
 
 Once the application is running, you can interact with the system through the terminal:
 
