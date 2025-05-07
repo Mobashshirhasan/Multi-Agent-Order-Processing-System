@@ -2,7 +2,7 @@
 
 A sophisticated e-commerce backend system that uses LangGraph to create a network of AI agents working together to process customer orders efficiently and intelligently.
 
-## 🌟 Features
+## 🌟 Features :
 
 - **Orchestrator Agent**: Manages conversation flow and delegates tasks
 - **Database Agent**: Fetches product information from PostgreSQL
