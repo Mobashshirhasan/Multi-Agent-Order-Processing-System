@@ -23,7 +23,7 @@ from reportlab.platypus import SimpleDocTemplate, Table, TableStyle, Paragraph, 
 from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.lib import colors
 
-# Database Configuration 
+ # Database Configuration 
 DB_CONFIG = {
     "dbname": " ",
     "user": "postgres",
