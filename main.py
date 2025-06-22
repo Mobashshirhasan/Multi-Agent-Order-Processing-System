@@ -3,7 +3,7 @@ Multi-Agent Order Processing System
 
 This system uses LangGraph to create a network of AI agents that work together to process customer orders :
 - Orchestrator Agent: Manages conversation flow and delegates tasks
-- Database Agent: Fetches product information from PostgreSQL
+- Database Agent: Fetches product information from PostgreSQL 
 - Inventory Agent: Updates product inventory after orders 
 - Billing Agent: Generates PDF bills for customer orders 
 """
