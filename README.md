@@ -84,7 +84,7 @@ Before running the application, you need to set up your PostgreSQL database and 
 Once the application is running, you can interact with the system through the terminal:
 
 1. The system will greet you and ask for your name and contact information.
-2. After providing your details, you can browse available products
+2. After providing your details, you can browse available products.
 3. Select products by specifying item IDs and quantities
 4. Confirm your order to generate a PDF bill
 
